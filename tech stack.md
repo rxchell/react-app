@@ -19,3 +19,9 @@
 | Database (SQL) | Oracle, MySQL|
 | Web server | Apache HTTP, Nginx |
 | Operating system
+| Event and messaging|Kafka
+|Infrastructure (Cloud)|Azure, AWS, Google Cloud
+|Virtualization|Kubernetes, Docker
+|Mobile applications|Android: Java
+|Mobile applications|iOS: Swift
+
