@@ -1,6 +1,5 @@
 #TECH STACK
 
-Browser                  (Frontend)
-
-Programming Language 
-Frameworks 
+- Browser                  (Frontend)
+- Programming Language 
+- Frameworks 
