@@ -15,6 +15,7 @@
 | Programming Language | JavaScript, TypeScript, Java, Python, Ruby, Scala, PHP, C#
 |Framework|React, Express, Spring, Django, Laravel, Rails, .NET
 | Runtime environment | Node.js, Java Runtime Environment (JRE), Node.js, Common Language Runtime (CLR) |
-| Database | MongoDB, MySQL|
+| Database (No SQL) | MongoDB, CouchDB SQL|
+| Database (SQL) | Oracle, MySQL|
 | Web server | Apache HTTP, Nginx |
 | Operating system
