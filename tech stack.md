@@ -1,5 +1,9 @@
 #TECH STACK
 
-- Browser                  (Frontend)
+- Browser (Frontend)
 - Programming Language 
-- Frameworks 
+- Framework: React
+- Runtime environment: Node.js
+- Database (Backend): MongoDB
+- Web server
+- Operating system 
