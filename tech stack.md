@@ -18,7 +18,7 @@
 | Database (No SQL) | MongoDB, CouchDB SQL|
 | Database (SQL) | Oracle, MySQL|
 | Web server | Apache HTTP, Nginx |
-| Operating system
+| Operating system|Apple macOS, Microsoft Windows, Google's Android OS, Linux Operating System, and Apple iOS
 | Event and messaging|Kafka
 |Infrastructure (Cloud)|Azure, AWS, Google Cloud
 |Virtualization|Kubernetes, Docker
