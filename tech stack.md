@@ -10,6 +10,10 @@
 - Framework
   - React, Express, Spring, Django, Laravel, Rails, .NET
 
+| Tech stack components | Technology |
+| --- | --- |
+| Frontend UI | - Markup: HTML, CSS stylesheets - Frameworks: Bootstrap, Tailwind |
+
 ## Backend
 - Runtime environment
   - Node.js, Java Runtime Environment (JRE), Node.js, Common Language Runtime (CLR) 
