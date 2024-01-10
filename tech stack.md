@@ -12,9 +12,11 @@
 
 | Tech stack components | Technology |
 | --- | --- |
-| Frontend User interface | - Markup: HTML, CSS stylesheets 
-|    u      | - Frameworks: Bootstrap, Tailwind |
+| Browser
+| Frontend User interface | Markup: HTML, CSS stylesheets 
+| Frontend User interface | Frameworks: Bootstrap, Tailwind |
 |Framework|React, Express, Spring, Django, Laravel, Rails, .NET
+|
 
 ## Backend
 - Runtime environment
