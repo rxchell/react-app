@@ -7,8 +7,21 @@ import Login from './pages/Login';
 import { Notfound } from './pages/Notfound';
 import { CategoriesLayout } from './CategoriesLayout';
 import "./styles.css";
+import Carousel from './carousel'; 
 
 function App() {
+  const images = [
+    'https://placehold.co/600x400?text=Hello+World!',
+    'https://placehold.co/600x400?text=Hello\nWorld',
+    'https://placehold.co/600x400/000000/FFFFFF/png?text=Hello+World',
+  ];
+  return (
+    <div className="App">
+      <h1>Simple React Carousel</h1>
+      <Carousel images={images} />
+    </div>
+  );
+  
   return (
     <>
       <nav>
