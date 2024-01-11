@@ -1,6 +1,6 @@
 # **Features**
 *to open, key `npm start` in terminal
-- routing
+- routing and pages 
 - carousel
 
   
