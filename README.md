@@ -1,4 +1,7 @@
-### to open, key `npm start` in terminal
+# **Features**
+*to open, key `npm start` in terminal
+- routing
+- carousel 
 
 
 # Getting Started with Create React App
