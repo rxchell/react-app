@@ -20,7 +20,10 @@ Website types
 - low-code
 - static
 - dynamic 
-  
+
+<br/>
+`const [state, setState]`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
