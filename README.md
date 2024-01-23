@@ -16,18 +16,40 @@ https://blog.logrocket.com/mern-stack-tutorial/
 - **CSS**: Styling and formatting of webpage 
 
 <br/>
+https://github.com/tanyyyming/GDSC-React-Workshop-2024/tree/main 
+<br/>
+<br/>
 
 Website types 
-
 - low-code
 - static
 - dynamic 
 
 <br/>
 
+### useState
 ```Java
 const [state, setState]
 ```
+
+- `useState` returns an array with two items
+- `state` variable assigned to initial value of state
+- `Updater` assigned a function used to modify the state
+
+```Java
+import { useState } from 'react';
+
+function {
+  const [State, Updater] = useState(initial_state) 
+  return (
+    ...
+    // some element may call Updater to update State
+    ...
+  );
+}
+```
+
+`.map` is similar to `for` loop 
 
 # Getting Started with Create React App
 
