@@ -11,7 +11,9 @@ https://blog.logrocket.com/mern-stack-tutorial/
 <br/>
 
 **Techstack**
-
+- **Javascript**: Scripting language for creating dynamic web page content 
+- **React.js**: Free, open-source JavaScript library to build UI by combining components
+- **CSS**: Styling and formatting of webpage 
 
 <br/>
 
