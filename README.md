@@ -22,7 +22,10 @@ Website types
 - dynamic 
 
 <br/>
-`const [state, setState]`
+
+```Java
+const [state, setState]
+```
 
 # Getting Started with Create React App
 
