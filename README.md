@@ -9,6 +9,10 @@
 > Express on NodeJs for the server, MongoDB to store data as document in JSON format and Mongoose for modeling
 https://blog.logrocket.com/mern-stack-tutorial/
 
+Website 
+- low-code
+- static
+- dynamic 
   
 # Getting Started with Create React App
 
